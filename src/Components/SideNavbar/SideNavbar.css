@@ -1,0 +1,6 @@
+.main-menu {
+    @apply w-[300px] bg-orange-700 flex flex-col justify-center items-center gap-[50px]
+}
+.main-menu ul li a {
+    @apply text-white text-[25px]
+}
